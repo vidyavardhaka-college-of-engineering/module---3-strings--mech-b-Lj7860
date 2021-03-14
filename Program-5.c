@@ -13,7 +13,7 @@ int main()
   int c , count = 0;
   char s[1000];
 
-  printf("Enter a string: ");
+  printf("Enter the string: ");
   scanf("%s", s);
 
   for(c=0;c<500;c++)
